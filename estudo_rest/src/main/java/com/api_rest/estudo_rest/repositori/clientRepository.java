@@ -1,4 +1,4 @@
-package com.api_rest.estudo_rest.repositori;
+    package com.api_rest.estudo_rest.repositori;
 
 import com.api_rest.estudo_rest.model.clients;
 import org.springframework.data.jpa.repository.JpaRepository;
